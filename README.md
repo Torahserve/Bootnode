@@ -1,4 +1,13 @@
 ![image](https://github.com/Torahserve/bootnode/blob/main/index.png)
 # You can use the following nodes.<br>
 ### bootnode <br>
-/ip4/54.243.20.180/tcp/1004/p2p/16Uiu2HAmUNAsPi52zJkfL3AubKPsVPfxqZoUkHHzvsNn68pFnYpE
+/ip4/54.146.184.234/tcp/1004/p2p/16Uiu2HAmEQbQeChddMViSjPPWGwBPsD33a8UD6HEqtTksfpGReR9
+/ip4/54.146.184.234/tcp/1014/p2p/16Uiu2HAm4e2GoaCBsj4c7mghErgSp54ZxL8GJM8XAA7gwpe3bqGt
+/ip4/54.146.184.234/tcp/1024/p2p/16Uiu2HAmVhSgbzBFy1wGnbAWShitAZTJPHn8VmSUz3LRm3Wap2dC
+/ip4/54.146.184.234/tcp/1034/p2p/16Uiu2HAmNcjToftNRprTEMJq8mzVgtRGtcrKLXYRcHuHuPPb5uS3
+/ip4/54.146.184.234/tcp/1044/p2p/16Uiu2HAm7RcwJMZP6ZNBq1DGKR1YwzWxDPoj3Ln3VD7vwMsRT6sK
+/ip4/54.146.184.234/tcp/1054/p2p/16Uiu2HAkwf2B7WMPkgLcXVS3LfRR5LLYVwmMSJYMa32EYzk1R8VE
+/ip4/54.146.184.234/tcp/1064/p2p/16Uiu2HAmCmLQtQgXBkdP7dsyQq8DMbC5geCpyDHZcWYymQjSbymo
+/ip4/54.146.184.234/tcp/1074/p2p/16Uiu2HAmJyXRLYbZ1ZRVhRNmSGQzwSEjMtnoG7nKCuyo8a5tNKdg
+/ip4/54.146.184.234/tcp/1084/p2p/16Uiu2HAmLBHknTLFV4idBqzvAXnXiizhD6zactgcCGAP8jfYYWNH
+/ip4/54.146.184.234/tcp/1094/p2p/16Uiu2HAkwuNEMz4EA5dNDkWXYL7UjCAK6QhAZdUJVePJ7tsrYWec
